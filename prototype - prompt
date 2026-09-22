@@ -1,0 +1,431 @@
+You are a professional 3D character artist and GTA V clothing/modding asset designer.
+
+I am building a GTA V clothing pack called:
+
+# FRANKLIN — BLACKOUT ULTIMATE PACK
+
+For the first prototype, I want you to design and help create a complete tactical outfit inspired by the visual identity of **Ghost / Simon “Ghost” Riley from Call of Duty**, but it must be an ORIGINAL GTA V-compatible design and must NOT be a direct copy of any copyrighted game asset.
+
+The final result should feel like a realistic, premium, dark tactical operator outfit suitable for Franklin in GTA V.
+
+---
+
+# CHARACTER
+
+Target character:
+
+Franklin Clinton — GTA V
+
+The clothing must be designed around Franklin's body proportions and GTA V's visual style.
+
+Do not make the outfit look like a generic fantasy character.
+
+It should look like something that could realistically exist inside GTA V.
+
+---
+
+# OVERALL STYLE
+
+Theme:
+
+GHOST / BLACKOUT TACTICAL OPERATOR
+
+Visual keywords:
+
+* black
+* dark tactical
+* urban operator
+* military
+* modern
+* realistic
+* stealth
+* aggressive
+* premium
+* functional
+* GTA V aesthetic
+
+Primary colors:
+
+* matte black
+* charcoal
+* dark grey
+* very dark olive
+* subtle metallic details
+
+Avoid bright colors.
+
+Avoid futuristic sci-fi armor.
+
+Avoid exaggerated superhero proportions.
+
+---
+
+# OUTFIT COMPONENTS
+
+Design the outfit as separate modular clothing components.
+
+## 1. HEAD
+
+Create:
+
+* tactical skull-inspired face covering
+* black tactical balaclava
+* dark hood
+* optional headset
+* optional tactical goggles
+
+The skull aesthetic should be ORIGINAL.
+
+Do NOT reproduce the exact Ghost skull mask from Call of Duty.
+
+Instead create a new skull-inspired tactical mask with its own pattern and geometry.
+
+The mask should look realistic and wearable.
+
+---
+
+# 2. TORSO
+
+Create a tactical upper-body setup containing:
+
+* black combat shirt
+* tactical plate carrier
+* modular chest rig
+* shoulder protection
+* radio
+* magazine pouches
+* utility pouches
+* subtle straps
+* tactical belt
+
+The equipment should be functional-looking rather than decorative.
+
+Avoid excessive armor.
+
+---
+
+# 3. ARMS
+
+Create:
+
+* long tactical sleeves
+* elbow protection
+* black tactical gloves
+* wrist straps
+* subtle utility details
+
+The gloves should be compatible with Franklin's hands.
+
+---
+
+# 4. PANTS
+
+Create modern tactical combat pants.
+
+Features:
+
+* reinforced knees
+* cargo pockets
+* utility pockets
+* tactical belt loops
+* knee protection
+* realistic fabric folds
+* slightly tapered silhouette
+
+The pants should not be excessively baggy.
+
+They should look like premium modern tactical pants.
+
+---
+
+# 5. BOOTS
+
+Create matching black tactical combat boots.
+
+Features:
+
+* reinforced toe
+* realistic sole
+* ankle support
+* laces
+* subtle tactical details
+* realistic rubber material
+
+The boots must fit Franklin's feet correctly.
+
+---
+
+# 6. ACCESSORIES
+
+Create several modular accessories:
+
+* tactical gloves
+* headset
+* radio
+* watch
+* utility pouch
+* knife sheath WITHOUT an actual weapon being modeled
+* tactical belt
+* small backpack
+* goggles
+* hood
+
+The accessories should be removable/modular where possible.
+
+---
+
+# SILHOUETTE
+
+The overall silhouette should immediately communicate:
+
+"BLACKOUT tactical operator"
+
+but should still fit naturally inside GTA V.
+
+Do not make the character excessively muscular.
+
+Do not add oversized armor.
+
+Keep proportions realistic.
+
+---
+
+# MATERIAL DESIGN
+
+Use realistic materials:
+
+COMBAT SHIRT:
+matte tactical fabric
+
+PLATE CARRIER:
+textured nylon
+
+POUCHES:
+rough tactical fabric
+
+BOOTS:
+matte rubber + leather
+
+METAL:
+dark gunmetal
+
+GOGGLES:
+dark translucent material
+
+MASK:
+matte fabric / synthetic tactical material
+
+All materials should have realistic roughness differences.
+
+---
+
+# TEXTURE DIRECTION
+
+Prepare the asset for a standard PBR workflow.
+
+Suggested texture maps:
+
+* Base Color
+* Normal
+* Roughness
+* Metallic where necessary
+* AO
+* Alpha where required
+
+Do not unnecessarily use extremely high-resolution textures.
+
+Optimize textures for GTA V.
+
+---
+
+# MODELING REQUIREMENTS
+
+The outfit must be constructed as real 3D geometry.
+
+Prioritize:
+
+* clean topology
+* clean normals
+* realistic thickness
+* believable seams
+* realistic fabric folds
+* correct proportions
+* optimized polygon count
+* clean UVs
+
+Avoid:
+
+* floating geometry
+* broken topology
+* unnecessary subdivision
+* extreme polygon density
+* unrealistic armor shapes
+
+---
+
+# GTA V COMPATIBILITY
+
+The design must be suitable for conversion into a GTA V clothing asset.
+
+Keep the following in mind:
+
+* Franklin's body proportions
+* GTA V clothing scale
+* character deformation
+* arm movement
+* shoulder deformation
+* elbow deformation
+* knee deformation
+* sitting animation
+* walking/running
+* clipping prevention
+
+The clothing should be separated into logical components so that it can later be converted into the appropriate GTA V clothing/mod format.
+
+Do NOT assume that simply exporting an OBJ or FBX makes the asset GTA V-ready.
+
+---
+
+# BLENDER
+
+The primary 3D software is:
+
+BLENDER
+
+The asset should be structured so it can be recreated/edited in Blender.
+
+Organize the scene into collections:
+
+Ghost_Outfit
+Ghost_Head
+Ghost_Torso
+Ghost_Arms
+Ghost_Pants
+Ghost_Boots
+Ghost_Accessories
+Ghost_Materials
+
+Use clean object names.
+
+Example:
+
+GHOST_MASK
+GHOST_HOOD
+GHOST_SHIRT
+GHOST_PLATE_CARRIER
+GHOST_CHEST_RIG
+GHOST_PANTS
+GHOST_GLOVES
+GHOST_BOOTS
+GHOST_BELT
+GHOST_RADIO
+GHOST_GOGGLES
+
+---
+
+# IMPORTANT COPYRIGHT RULE
+
+This is an ORIGINAL outfit inspired by the general concept of a tactical skull-masked operator.
+
+Do NOT directly copy:
+
+* Call of Duty Ghost's exact mask
+* exact clothing geometry
+* exact textures
+* exact logos
+* exact insignia
+* exact proprietary patterns
+* ripped game assets
+
+The final design must be sufficiently original while maintaining the recognizable general concept:
+
+BLACK SKULL MASK + MODERN TACTICAL OPERATOR + DARK MILITARY STREETWEAR.
+
+---
+
+# VISUAL QUALITY
+
+Target quality:
+
+AAA-game-inspired
+
+but optimized for GTA V.
+
+The outfit should look convincing both:
+
+1. in Blender renders
+2. inside GTA V
+
+Pay particular attention to:
+
+* silhouette
+* fabric materials
+* tactical equipment
+* mask quality
+* realistic folds
+* small details
+* proportions
+* lighting response
+
+---
+
+# FIRST DELIVERABLE
+
+Do NOT immediately create the entire final asset.
+
+First produce a detailed concept and technical breakdown.
+
+Provide:
+
+1. Front view concept
+2. Back view concept
+3. Left view
+4. Right view
+5. Close-up of the mask
+6. Close-up of tactical vest
+7. Close-up of boots
+8. Material breakdown
+9. Component breakdown
+10. Blender modeling plan
+11. Texture plan
+12. GTA V conversion plan
+
+The front and back views are especially important because they will be used as modeling references.
+
+---
+
+# NEXT STAGE
+
+After the concept is approved, create the actual Blender-ready asset plan.
+
+Break the outfit into modular components.
+
+For every component specify:
+
+* geometry
+* approximate topology density
+* material
+* texture requirements
+* UV requirements
+* rigging requirements
+* attachment method
+* GTA V clothing category
+* potential clipping problems
+
+If Blender Python can automate any part of the workflow, provide the actual Blender Python script.
+
+Do not provide fake automation.
+
+The ultimate objective is:
+
+CONCEPT
+→ BLENDER MODEL
+→ UV
+→ TEXTURES
+→ MATERIALS
+→ RIG / WEIGHTS
+→ GTA V CONVERSION
+→ GTA V TEST
+→ FINAL PROTOTYPE
+
+The result must be a real, editable, modular GTA V clothing asset — not merely a concept image.
